@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4d87688-144c-4577-9006-55325cb98853" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/keter.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/models.persistentmodels" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/routes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/test-settings.yml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/config" />
+  </component>
+  <component name="ProjectId" id="1R80PNv4AAbMiJPvXBAjmpmGPMa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4d87688-144c-4577-9006-55325cb98853" name="Default Changelist" comment="" />
+      <created>1569033391629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569033391629</updated>
+      <workItem from="1569033399547" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
